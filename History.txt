@@ -1,0 +1,13 @@
+**== 0.6.0 18/8/2008
+
+* 2 major improvement
+  *	Shipping parse fixed
+  * Documentation added
+* 1 bug fixes
+  * Shipping canned tests fixed
+  
+
+**== 0.9.0 18/9/2008
+
+* 1 major improvement
+  *	Code Re-factored

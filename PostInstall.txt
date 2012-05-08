@@ -1,0 +1,7 @@
+To use Awesome! USPS in your app use require 'awesome_USPS' in your environment.rb or production.rb
+
+For more information on awesome_usps, see http://awesome_usps.rubyforge.org
+
+
+
+
